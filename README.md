@@ -23,3 +23,5 @@ Volume 259,
 107697,
 ISSN 0010-4655,
 https://doi.org/10.1016/j.cpc.2020.107697.
+
+![image](https://user-images.githubusercontent.com/27854932/126433192-cd2ae510-90ac-4676-8149-ec44b8645bef.png)
